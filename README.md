@@ -1,2 +1,2 @@
-# DataSciencePrac1
+# DataSciencePracticals
 Data Science Practicals
